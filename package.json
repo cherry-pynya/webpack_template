@@ -7,7 +7,7 @@
     "start": "webpack serve --mode development",
     "build": "webpack --mode production"
   },
-  "author": "",
+  "author": "cherry-pynya",
   "license": "ISC",
   "description": "",
   "devDependencies": {
